@@ -2,7 +2,7 @@
 - A simple search box with animation, inspired from ios search bar. 
 - No library dependencies, lightweight, fast, flexible. 
 - Support both iOS/Android devices
-
+- Support RTL
 
 ## Install
 ```
